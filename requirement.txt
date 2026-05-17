@@ -1,0 +1,5 @@
+1. Make a file name inside the same folder 
+       .env
+2. Write inside that file 
+       API_KEY = {your_api_key}
+
